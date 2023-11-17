@@ -10,7 +10,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     background-color: rgba(37, 37, 37, 0.9);
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+    margin: 10px;
 }
 
 .button-container{
